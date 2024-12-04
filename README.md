@@ -1,2 +1,2 @@
 # react-buscadordecep
-Buscador de CEP - Framework - React
+Buscador de CEP - React
